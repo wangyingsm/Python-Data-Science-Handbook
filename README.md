@@ -53,7 +53,7 @@ Familiarity with Python as a language is assumed; if you need a quick introducti
 
 See [Index.ipynb](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) for an index of the notebooks available to accompany the text.
 
-可以参见[目录](blob/master/notebooks/Index.ipynb)查看所有notebooks的列表。
+可以参见[目录](notebooks/Index.ipynb)查看所有notebooks的列表。
 
 ## Software
 

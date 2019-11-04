@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# nprun demo
+notebooks/mprun_demo.py

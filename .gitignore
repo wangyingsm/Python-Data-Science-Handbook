@@ -105,3 +105,4 @@ venv.bak/
 
 # nprun demo
 notebooks/mprun_demo.py
+notebooks/data/20170107-061401-recipeitems.json

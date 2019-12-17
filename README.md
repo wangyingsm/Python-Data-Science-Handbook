@@ -31,8 +31,8 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 - 在线阅读本书：https://jakevdp.github.io/PythonDataScienceHandbook/。
 - 使用Jupyter notebook运行本仓库的代码，代码在[notebooks](notebooks)目录下。
-- 在[谷歌Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)上运行这些notebooks。
-- 在[在线binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)上运行这些notebooks。
+- 在[谷歌Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wangyingsm/Python-Data-Science-Handbook/blob/master/notebooks/Index.ipynb)上运行这些notebooks。
+- 在[在线binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wangyingsm/Python-Data-Science-Handbook/master?filepath=notebooks%2FIndex.ipynb)上运行这些notebooks。
 - 在[O'Reilly Media](http://shop.oreilly.com/product/0636920034919.do)网站上购买本书纸质版。
 
 ## About
